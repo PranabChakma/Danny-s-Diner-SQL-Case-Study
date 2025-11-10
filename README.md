@@ -29,3 +29,19 @@ This project uses three tables:
 1. Create a database and Insert data using [SQL dataset](./dannys_diner_data.sql)
 2. Execute analytical queries [SQL Queries](./dannys_dinnr_queries.sql)
 3. View output tables [SQL Result](./result.csv)
+
+# Tools I used
+For my deep dive into the danny's diner restaurant, I harnessed the power of several key tools:
+SQL(MySQL Workbench): The backbone of my analysis, allowing me to query the database and unearth critical insights.
+Excel: To save the output of every SQL queries.
+Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
+# What I learned
+Filtering (Where, Order by)
+Aggregation (Count, Sum)
+Joining Tables
+Grouping (Group by)
+Subqueries
+Window Function
+Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+
