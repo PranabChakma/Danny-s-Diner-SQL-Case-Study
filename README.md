@@ -32,16 +32,16 @@ This project uses three tables:
 
 # Tools I used
 For my deep dive into the danny's diner restaurant, I harnessed the power of several key tools:
-SQL(MySQL Workbench): The backbone of my analysis, allowing me to query the database and unearth critical insights.
-Excel: To save the output of every SQL queries.
-Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+1. SQL(MySQL Workbench): The backbone of my analysis, allowing me to query the database and unearth critical insights.
+2. Excel: To save the output of every SQL queries.
+3. Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # What I learned
-Filtering (Where, Order by)
-Aggregation (Count, Sum)
-Joining Tables
-Grouping (Group by)
-Subqueries
-Window Function
-Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+1. Filtering (Where, Order by)
+2. Aggregation (Count, Sum)
+3. Joining Tables
+4. Grouping (Group by)
+5. Subqueries
+6. Window Function
+7. Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
