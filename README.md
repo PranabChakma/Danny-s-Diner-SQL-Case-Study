@@ -27,3 +27,6 @@ This project uses three tables:
 
 # How to run
 1. Create a database using 
+2. Insert data using
+3. Execute analytical queries in
+4. View output tables 
