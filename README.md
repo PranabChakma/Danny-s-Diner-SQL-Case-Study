@@ -28,4 +28,4 @@ This project uses three tables:
 # How to run
 1. Create a database and Insert data using [SQL dataset](./dannys_diner.sql)
 2. Execute analytical queries [SQL Queries](./dannys_dinnr.sql.sql)
-3. View output tables
+3. View output tables [SQL Result](./result.csv)
