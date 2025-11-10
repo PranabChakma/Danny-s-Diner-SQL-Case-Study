@@ -26,7 +26,6 @@ This project uses three tables:
 
 
 # How to run
-1. Create a database using [SQL dataset](./dannys_diner.sql)
-2. Insert data using
-3. Execute analytical queries in
-4. View output tables 
+1. Create a database and Insert data using [SQL dataset](./dannys_diner.sql)
+2. Execute analytical queries 
+3. View output tables
